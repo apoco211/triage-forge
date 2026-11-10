@@ -1,12 +1,12 @@
 {
   "name": "triage-forge",
   "short_name": "triage-forge",
-  "description": "triage-forge - ⚒️ #f97316 테마",
+  "description": "triage-forge - ✨ #10b981 테마",
   "start_url": "./index.html",
   "display": "standalone",
   "scope": "./",
   "background_color": "#ffffff",
-  "theme_color": "#f97316",
+  "theme_color": "#10b981",
   "icons": [
     {
       "src": "./icon-192.png",
