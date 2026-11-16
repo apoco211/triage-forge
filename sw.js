@@ -1,4 +1,4 @@
-const CACHE_NAME = 'triage-forge-v1.0.6';
+const CACHE_NAME = 'triage-forge-v1.0.7';
 const urlsToCache = ['./', './index.html', './manifest.json', './icon-192.png', './icon-512.png', './apple-touch-icon.png'];
 self.addEventListener('install', e => {
   self.skipWaiting();
